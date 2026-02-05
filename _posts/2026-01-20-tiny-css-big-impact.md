@@ -52,7 +52,7 @@ If you have any accommodation requests, don't hesitate to [contact us](/contact.
 RSVP with one of the following for the meeting's video link: 
 
 * [RSVP on Meetup][rsvp-meetup]{: rel="external"}
-* [RSVP on Eventbite][rsvp-eventbrite]{: rel="external"}
+* [RSVP on Eventbrite][rsvp-eventbrite]{: rel="external"}
 * [RSVP by email][rsvp-email]
 
 [rsvp-meetup]: 		https://www.meetup.com/portland-accessibility-and-user-experience-meetup/events/312613198/
