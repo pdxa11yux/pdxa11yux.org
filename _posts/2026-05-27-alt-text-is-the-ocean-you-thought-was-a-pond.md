@@ -16,7 +16,12 @@ short_description: "Writing proper alt text is hard. But it doesn't have to be. 
 
 ## About
 
-Writing proper alt text is hard. But it doesn't have to be. There's a minimum standard and an advanced approach. People who need alt text will appreciate you for the former and love you for the latter. There are a number of considerations for writing great alt text. In this talk, Mark Wyner outlines the many facets, and help you give screen readers something to *talk* about.
+Writing proper alt text is hard. But it doesn't have to be. There's a minimum standard and an advanced approach. People who need alt text will appreciate you for the former and love you for the latter. Alt text is also a whole lot more than the `alt` attribute. That's just one of the many ways to make content accessible. In fact, there are a number of considerations for writing great alt text.
+
+In this presentation, Mark Wyner will help you understand the spectrum of options so you can take good care of your audience. We'll walk through implementation methods, phonetics, composition, complex sources, and tackling social media.
+
+Let’s give screen readers and other assistive technologies something to *talk* about.
+
 
 ## Agenda
 
